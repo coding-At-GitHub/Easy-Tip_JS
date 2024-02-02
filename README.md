@@ -1,4 +1,4 @@
-# TipEase Express
+# TipEase Express / Easy Tip
 
 ## Description
 TipEase Express is a user-friendly JavaScript-based tip calculator designed for simplicity and efficiency. This project allows users to quickly calculate gratuities based on their input, providing an easy and hassle-free experience.
